@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teemwork/static/css/main.d1b05096.chunk.css",
+    "main.js": "/teemwork/static/js/main.996b214c.chunk.js",
+    "main.js.map": "/teemwork/static/js/main.996b214c.chunk.js.map",
+    "runtime-main.js": "/teemwork/static/js/runtime-main.d170f549.js",
+    "runtime-main.js.map": "/teemwork/static/js/runtime-main.d170f549.js.map",
+    "static/js/2.c96104e3.chunk.js": "/teemwork/static/js/2.c96104e3.chunk.js",
+    "static/js/2.c96104e3.chunk.js.map": "/teemwork/static/js/2.c96104e3.chunk.js.map",
+    "index.html": "/teemwork/index.html",
+    "precache-manifest.899142945aca972e317b89a338c3e096.js": "/teemwork/precache-manifest.899142945aca972e317b89a338c3e096.js",
+    "service-worker.js": "/teemwork/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/teemwork/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c96104e3.chunk.js.LICENSE.txt": "/teemwork/static/js/2.c96104e3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teemwork/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d170f549.js",
+    "static/js/2.c96104e3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.996b214c.chunk.js"
+  ]
+}
